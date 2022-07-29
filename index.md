@@ -1,8 +1,8 @@
 ## Welcome to VIJDAN KHALIQUE's Homepage
 
-This is my personal webpage mainly for sharing my research profile.
+This is my personal webpage mainly for sharing my professional and research profile.
 
-I am PhD candidate at the University of Tsukuba, Japan. I am interested in research area related to knowledge and data engineering and my current research is about Outlier Detection, Cluster Boundary points detection and Data Stream Mining. 
+I am a PhD candidate at the University of Tsukuba, Japan. I am interested in research area related to knowledge and data engineering and my current research is about Outlier Detection, Cluster Boundary points detection and Data Stream Mining. 
 
 Today, the world is data driven! The amount and the speed at which the data is being produced is unprecedented. Extracting useful and actionable knowledge from this tremdous amount of data can be advantageos in numerous fields such as health, science and business. 
 
