@@ -1,8 +1,16 @@
 ## Welcome to VIJDAN KHALIQUE's Homepage
 
-You can use the [editor on GitHub](https://github.com/vijdanKQ/vkhalique.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal webpage mainly for sharing my research profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am PhD candidate at the University of Tsukuba, Japan. I am interested in research area related to knowledge and data engineering and my current research is about Outlier Detection, Cluster Boundary points detection and Data Stream Mining. 
+
+Today, the world is data driven! The amount and the speed at which the data is being produced is unprecedented. Extracting useful and actionable knowledge from this tremdous amount of data can be advantageos in numerous fields such as health, science and business. 
+
+Mining outlying data points called outliers may represent some anomalous behavior of the system generating that data. Similarly, the data points occurring near the boudanry of the cluster of data points may represent some useful information. Hence, algorithms which can mining such data points can have useful applications and there are many research papers addressing these problems. This motivates me to contribute scientifically in this particular research area. However, I am also interested in exploring and contributing in the knowledge and data engineering related research fields for example clustering and pattern detection.
+
+In the future, I wish to work on methods where machine learning can be used for knowledge extraction.
+
+Please feel free to check out my webpage.
 
 ### Markdown
 
